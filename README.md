@@ -1,2 +1,2 @@
 # nivelamento_ED2
-This is a repositorys for the Data Structure class
+Esse é um repositório para a disciplina de Estrutura de Dados II
